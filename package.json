@@ -1,0 +1,24 @@
+{
+  "name": "mern_stack_aks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amansah288/MERN_STACK_AKS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/amansah288/MERN_STACK_AKS/issues"
+  },
+  "homepage": "https://github.com/amansah288/MERN_STACK_AKS#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
